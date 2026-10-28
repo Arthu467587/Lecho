@@ -1,0 +1,7 @@
+L'écho is based on Clair by steinyanaa.
+Upstream: https://github.com/steinyanaa/Clair
+Reference commit: 518f96b7c7d09344e28f6c54903924bd52dee3ac
+
+The audio conversion and SpeechAnalyzer workflow is adapted from Clair.
+Upstream MIT copyright and license are retained in LICENSE-Clair.txt and source comments.
+The additional L'écho application code is distributed under the MIT license in LICENSE.

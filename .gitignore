@@ -1,0 +1,17 @@
+work/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+*.ipa
+*.xcarchive
+report.json
+test-audio.caf
+analysis.json
+analysis.md
+.env
+.env.*
+*.pem
+*.enc
+
+.superpowers/
+__pycache__/
